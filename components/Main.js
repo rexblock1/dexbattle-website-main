@@ -165,7 +165,7 @@ useEffect(() => {
 
             </div>
 
-            <div className='hidden lg:flex w-[600px] h-[600px] mt-[80px]'>
+            <div className='hidden lg:flex flex-col w-[600px] h-[600px] mt-[80px] items-end'>
               <img src='webimage1.png'
               className='object-cover'/>
             </div>
