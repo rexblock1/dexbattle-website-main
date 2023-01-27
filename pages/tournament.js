@@ -12,6 +12,17 @@ export default function Tournament ( ) {
                  controls={true} muted playing
                  width='1080px' height='720px' /> 
              </div>
+             <div className=' font-Kanit md:my-8 my-4'>
+              <h1 className='text-xl bg-gradient-to-r from-amber-300 via-yellow-400 to-orange-500 bg-clip-text text-transparent'>
+              Prepare now for Dex Battle Beta launch tournaments
+              </h1>
+              <h1 className='text-lg'>
+               on 28 - 30 Jan 2023 in Egypt
+              </h1>
+              <h1 className='text-lg'>
+              for more information and registration Kindly contact <img src="/whatsapp.png" className='h-[30px] w-[30px] rounded-md'/> +971554740803
+              </h1>
+             </div>
           </div>  
         </div>
     )
