@@ -19,12 +19,12 @@ export default function Tournament ( ) {
               <h1 className='text-3xl text-gray-300'>
                on 28 - 30 Jan 2023 in Egypt
               </h1>
-              <div className='flex'>
               <h1 className='text-3xl text-white'>
               for more information and registration Kindly contact
               </h1>
-              <img src="/whatsapp.png" className='h-[50px] w-[50px] rounded-md'/>
-              <h1 className='text-3xl text-white'>
+              <div className='flex'>
+              <img src="/whatsapp.png" className='h-[40px] w-[40px] rounded-full'/>
+              <h1 className='text-3xl text-white mx-4'>
                 +971554740803
               </h1> 
               </div>
