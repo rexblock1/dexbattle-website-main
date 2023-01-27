@@ -48,8 +48,8 @@ useEffect(() => {
                     <img src="/icons/windows.png" class="w-7 md:w-8"/> 
                     <div class="text-left ml-3">
                         <p class='text-xs text-gray-200'>Download for  </p>
-                        <p class="text-sm md:text-base text-gray-200"> Windows </p>
-                        <p class='text-[10px] text-white'>{'(soon!)'}</p>
+                        <p class="text-sm md:text-base text-gray-200"> Windows</p>
+                        <p class='text-[10px] text-white'>{'(Beta Launch!)'}</p>
                     </div>
                 </div></a>
             </div>
