@@ -16,10 +16,10 @@ export default function Tournament ( ) {
               <h1 className='text-5xl bg-gradient-to-r from-amber-300 via-yellow-400 to-orange-500 bg-clip-text text-transparent'>
               Prepare now for Dex Battle Beta launch tournaments
               </h1>
-              <h1 className='text-3xl text-gray-300 md:my-4 my-2'>
+              <h1 className='text-3xl text-gray-300 my-2'>
                on 28 - 30 Jan 2023 in Egypt
               </h1>
-              <h1 className='text-3xl text-white my-2'>
+              <h1 className='text-3xl text-white md:my-4 my-2'>
               for more information and registration Kindly contact
               </h1>
               <div className='flex'>
